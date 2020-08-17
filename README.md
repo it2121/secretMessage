@@ -9,7 +9,7 @@
     <img src="logo1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Minesweeper Chill</h3>
+  <h3 align="center">secretMessage</h3>
 Hide a message into an image with the option of encrypting it using AES and vice versa. 
 ### Built With C# 
 
